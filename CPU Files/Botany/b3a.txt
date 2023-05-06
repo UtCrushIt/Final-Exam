@@ -1,0 +1,114 @@
+UNIT - 1
+I.	What is difference between climatic and physiographic factors?
+II.	Which sensor is used for the measurement of solar radiation?
+III.	What is the full form of PAR and PPFD?
+IV.	What is hydrological cycle?
+V.	Differentiate the Hadley cell, Ferrel cell and polar cell.
+VI.	Pedogenesis 
+VII.	Give the definition of soil profile.
+VIII.	What is Munsell color charts?
+IX.	Define Peds.
+X.	Permanent wilting percentage.
+UNIT - 2
+I.	What are bulliform cells?
+II.	What are lithophytes?
+III.	Write the two examples of halophytes.
+IV.	What is a drought resistant plant?
+V.	Give definition of xerophytes.
+
+
+
+ChatGPT
+UNIT - 1
+
+I. Climatic factors refer to the long-term atmospheric conditions of a region, including temperature, precipitation, humidity, wind, and atmospheric pressure. Physiographic factors, on the other hand, refer to the physical features of a landscape, such as elevation, slope, aspect, soil type, and vegetation cover.
+
+II. A pyranometer is commonly used for the measurement of solar radiation.
+
+III. PAR stands for Photosynthetically Active Radiation, which refers to the wavelengths of light that are used for photosynthesis by plants. PPFD stands for Photosynthetic Photon Flux Density, which refers to the number of photons of PAR that fall on a given area per unit time.
+
+IV. The hydrological cycle refers to the continuous movement of water on, above, and below the surface of the Earth. It involves processes such as evaporation, precipitation, infiltration, runoff, and groundwater recharge.
+
+V. The Hadley cell is a large-scale atmospheric circulation pattern that is responsible for the trade winds and the low-pressure zone near the equator. The Ferrel cell is a mid-latitude atmospheric circulation pattern that is responsible for westerly winds. The polar cell is a circulation pattern that occurs near the poles.
+
+VI. Pedogenesis is the process of soil formation, which involves the weathering of rocks, the decomposition of organic matter, and the accumulation of minerals and nutrients.
+
+VII. The soil profile is a vertical section of the soil that shows the different layers or horizons. These horizons are differentiated based on their physical, chemical, and biological characteristics.
+
+VIII. Munsell color charts are a standardized set of color samples that are used for soil classification and identification. The charts show the different hues, values, and chromas of soil colors.
+
+IX. Peds are the natural aggregates of soil particles that form distinct shapes or structures. These shapes can be granular, blocky, platy, or prismatic.
+
+X. Permanent wilting percentage is the point at which a plant can no longer recover from water stress and begins to wilt permanently. It is the percentage of soil moisture at which the plant cannot extract enough water from the soil to meet its needs.
+
+UNIT - 2
+
+I. Bulliform cells are specialized leaf cells found in some grasses that are involved in leaf rolling and unrolling in response to changes in water availability.
+
+II. Lithophytes are plants that grow on rocks or rocky surfaces.
+
+III. Two examples of halophytes are salt marsh grass and mangroves.
+
+IV. A drought-resistant plant is a plant that can survive extended periods of drought or water scarcity. These plants have adaptations such as deep root systems, thick leaves, or water-storing tissues.
+
+V. Xerophytes are plants that are adapted to survive in arid or desert environments. They have adaptations such as succulent leaves, water-storing tissues, or deep root systems to help them conserve water.
+
+
+
+
+
+User
+UNIT - 3
+I. 	Define succession.
+II.	   Name two pioneers each of hydrosere and lithosere.
+III.	What is psammosere?
+IV. What is climax community?
+V. Write the examples of hydrosere climax stage.
+UNIT - 4
+I. Why energy flow in the ecosystem is upright?
+II. What is biome?
+III. What are the micro consumers in the ecosystem?
+IV. What is the biogeochemical cycle?
+V. What do you understand by ecosystem?
+UNIT - 5
+I. Which is the largest biogeographic regions of India ?
+II. What is the bad ozone?
+III. What is greenhouse gas?
+IV. Why CFCs are considered as an air pollutant?
+V. Name two desert plants of Rajasthan?
+ChatGPT
+UNIT - 3
+
+I. Succession is the process of gradual and predictable changes in the composition of a community over time, usually following a disturbance or the colonization of a new area.
+
+II. Two pioneers of hydrosere are algae and floating plants, while two pioneers of lithosere are lichens and mosses.
+
+III. Psammosere is a type of succession that occurs on sandy substrates, such as sand dunes or beaches.
+
+IV. Climax community is the stable and self-sustaining community of plants and animals that is reached at the end of the succession process, and which is characteristic of a particular ecosystem.
+
+V. Examples of hydrosere climax stage include swamps and marshes, which are dominated by wetland plants such as cattails and sedges.
+
+UNIT - 4
+
+I. Energy flow in the ecosystem is upright because it moves from the producers (plants) to the consumers (herbivores, carnivores, and omnivores) and finally to the decomposers (bacteria and fungi), in a unidirectional flow of energy.
+
+II. A biome is a large geographical region characterized by its dominant vegetation and climate. Examples of biomes include tropical rainforests, deserts, tundras, and grasslands.
+
+III. Micro consumers in the ecosystem include herbivorous insects, such as caterpillars and grasshoppers, and detritivores, such as earthworms and dung beetles.
+
+IV. The biogeochemical cycle is the process by which elements, such as carbon, nitrogen, and phosphorus, move through the living and non-living components of the Earth's systems, including the atmosphere, hydrosphere, and lithosphere.
+
+V. Ecosystem is a complex network of living organisms, their physical environment, and the interactions between them. It can be a natural ecosystem, such as a forest or a coral reef, or a human-made ecosystem, such as a farm or a city.
+
+UNIT - 5
+
+I. The largest biogeographic region of India is the Himalayan region, which includes the Himalayan mountain range and the adjacent northern plains.
+
+II. Bad ozone, or tropospheric ozone, is a form of ozone that is formed by the reaction of sunlight with pollutants such as nitrogen oxides and volatile organic compounds. It is harmful to human health and the environment.
+
+III. Greenhouse gases are gases that trap heat in the Earth's atmosphere, leading to the warming of the planet. Examples of greenhouse gases include carbon dioxide, methane, and water vapor.
+
+IV. CFCs, or chlorofluorocarbons, are considered an air pollutant because they are a major cause of ozone depletion in the Earth's atmosphere, which can lead to harmful effects such as increased ultraviolet radiation and skin cancer.
+
+V. Two desert plants of Rajasthan are khejri (Prosopis cineraria) and guggul (Commiphora wightii).
